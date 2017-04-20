@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EmployeeList>
+    <employees>
+        <id>143</id>
+        <name>Basant</name>
+        <dept>Java</dept>
+        <salary>1200.0</salary>
+    </employees>
+    <employees>
+        <id>987</id>
+        <name>Amit</name>
+        <dept>.net</dept>
+        <salary>1700.0</salary>
+    </employees>
+    <employees>
+        <id>567</id>
+        <name>manoj</name>
+        <dept>php</dept>
+        <salary>890.0</salary>
+    </employees>
+    <employees>
+        <id>98</id>
+        <name>saroj</name>
+        <dept>python</dept>
+        <salary>1800.0</salary>
+    </employees>
+</EmployeeList>
